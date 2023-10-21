@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fluttwe**
 
-- 💬 Ask me about **SEO, Webdevelopment,FLutter**
+- 💬 Ask me about **SEO,Webdevelopment,FLutter**
 
 - 📫 How to reach me **buttabdulhannan708@gmail.com**
 
