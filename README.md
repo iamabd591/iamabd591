@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamabd591" alt="iamabd591" /></a> </p>
 
-- 🌱 I’m currently learning **Fluttwe**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **SEO,Webdevelopment,FLutter**
+- 💬 Ask me about **SEO, Web-Development ,FLutter**
 
 - 📫 How to reach me **buttabdulhannan708@gmail.com**
 
