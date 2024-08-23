@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamabd591" alt="iamabd591" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently doing **MERN STACK** Internship
 
-- 💬 Ask me about **SEO, Web-Development ,**
+- 💬 Ask me about **SEO, Web-Development REACT**
 
 - 📫 How to reach me **buttabdulhannan708@gmail.com**
 
