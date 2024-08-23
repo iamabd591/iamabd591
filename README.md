@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul Hanan</h1>
-<h3 align="center">A Passionate Frontend Developer and SEO Expert from Pakistan</h3>
+<h3 align="center">A Passionate Developer and SEO Expert from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabd591&label=Profile%20views&color=0e75b6&style=flat" alt="iamabd591" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamabd591" alt="iamabd591" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **SEO, Web-Development ,FLutter**
+- 💬 Ask me about **SEO, Web-Development ,**
 
 - 📫 How to reach me **buttabdulhannan708@gmail.com**
 
