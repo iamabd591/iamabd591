@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Abdul Hanan<br><br>I'm a passionate web developer currently diving deeper into full-stack development through a MERN Stack internship. With a strong foundation in coding and a love for problem-solving,<br><br>💡 My journey also includes hands-on experience with SEO, helping websites rank higher and perform better. I've built several websites using WordPress, blending functionality with user-friendly design.<br><br>🌱 I'm constantly learning and experimenting with new technologies</p>
+<p align="left">Hi 👋, I'm Abdul Hanan<br><br>I'm a passionate web developer currently diving deeper into full-stack development through a MERN Stack internship. With a strong foundation in coding and a love for problem-solving.<br><br>💡 My journey also includes hands-on experience with SEO, helping websites rank higher and perform better. I've built several websites using WordPress, blending functionality with user-friendly design.<br><br>🌱 I'm constantly learning and experimenting with new technologies</p>
 
 ###
 
