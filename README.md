@@ -102,7 +102,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/iamabd591/iamabd591/output/snake.svg" alt="Snake animation" />
-
-###
