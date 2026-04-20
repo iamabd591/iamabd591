@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=iamabd591">
-    <img src="https://komarev.com/ghpvc/?username=iamabd591&label=Profile%20views&color=00FFFF&style=flat-square" alt="iamabd591's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=iamabd591&label=Profile%20views&color=881199&style=flat-square" alt="iamabd591's profile views" />
   </a>
 </p>
 
@@ -11,7 +11,6 @@
 ## 🧠 My Focus Areas
 - Abdul Hanan  Software Developer focused on building scalable, high-performance web and mobile applications. I specialize in React.js, React Native, and Flutter, with hands-on experience in developing cross-platform applications that deliver smooth and consistent user experiences. My work extends beyond frontend into backend development using tools like Supabase, enabling me to build complete, end-to-end solutions.
 - Currently, I’m focused on cross-platform development with Flutter, while continuously improving architecture, performance, and code quality across projects.
-
 
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
@@ -28,19 +27,21 @@
   </a>
 </p>
 
+## 📊 GitHub Trophies
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=iamabd591&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdul Hanan's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=iamabd591&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/iamabd591">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamabd591&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="iamabd591's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamabd591&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="iamabd591's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=iamabd591&theme=nightowl&hide_border=true&cache_seconds=86400" alt="iamabd591's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=iamabd591&theme=radical&hide_border=true&cache_seconds=86400" alt="iamabd591's GitHub Streak" width="49%" />
 </p>
+<br/>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabd591&theme=nightowl&radius=10" alt="iamabd591's Activity Graph" />
+  <img src="https://trophy.ryglcloud.net/?username=iamabd591&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 
 
@@ -50,11 +51,9 @@
 
 <p align="center">
   <a href="https://github.com/iamabd591">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabd591&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabd591&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
