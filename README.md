@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<h3 align="center">Software Developer | React • React Native • Flutter • Supabase </h3>
+
+## 🧠 My Focus Areas
+- Abdul Hanan  Software Developer focused on building scalable, high-performance web and mobile applications. I specialize in React.js, React Native, and Flutter, with hands-on experience in developing cross-platform applications that deliver smooth and consistent user experiences. My work extends beyond frontend into backend development using tools like Supabase, enabling me to build complete, end-to-end solutions.
+- Currently, I’m focused on cross-platform development with Flutter, while continuously improving architecture, performance, and code quality across projects.
+
+
+## 🔗 Connect with Me
+
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
