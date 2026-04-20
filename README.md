@@ -13,8 +13,6 @@
 - Currently, I’m focused on cross-platform development with Flutter, while continuously improving architecture, performance, and code quality across projects.
 
 
-## 🔗 Connect with Me
-
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
