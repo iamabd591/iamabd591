@@ -15,15 +15,29 @@
 
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
+## 🔗 Connect with Me
+<p align="right">
+  <a href="https://www.linkedin.com/in/abdul-hanan-butt/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:buttabdulhannan708@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://iamabd591.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=iamabd591&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdul Hanan's GitHub Trophies" />
+</p>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/iamabd591">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamabd591&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="iamabd591's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=iamabd591&theme=nightowl&hide_border=true&cache_seconds=86400" alt="iamabd591's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=iamabd591&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdul Hanan's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabd591&theme=nightowl&radius=10" alt="iamabd591's Activity Graph" />
@@ -40,18 +54,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-hanan-butt/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:buttabdulhannan708@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://iamabd591.netlify.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
