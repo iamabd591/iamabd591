@@ -16,7 +16,7 @@
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 🔗 Connect with Me
-<p align="right">
+<p align="left">
   <a href="https://www.linkedin.com/in/abdul-hanan-butt/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
